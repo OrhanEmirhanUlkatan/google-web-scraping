@@ -44,7 +44,7 @@ Modify the script to customize the search query and scraping parameters.
 
 ## Contributing
 
-This project was developed in collaboration with [hfulkatan]https://github.com/hfulkatan. Feel free to submit issues or pull requests if you have suggestions or improvements.
+This project was developed in collaboration with [hfulktan](https://github.com/hfulkatan).. Feel free to submit issues or pull requests if you have suggestions or improvements.
 
 ## License
 
